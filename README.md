@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Weiss 👋
 
-<!--
-**weiss-lytics/weiss-lytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Digital Analytics Specialist → Exploring Solutions Engineering, Analytics Engineering & AI Workflows
 
-Here are some ideas to get you started:
+```javascript
+const Weiss = {
+  currentRole: "Digital Analytics Associate",
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  interests: [
+    "Solutions Engineering",
+    "Analytics Engineering",
+    "AI Workflows"
+  ],
+
+  analytics: [
+    "GA4",
+    "GTM",
+    "Server-Side GTM",
+    "BigQuery",
+    "SQL"
+  ],
+
+  engineering: [
+    "JavaScript",
+    "APIs",
+    "JSON",
+    "Browser APIs",
+    "Git"
+  ],
+
+  automation: [
+    "Prompt Engineering",
+    "AI-Assisted Development"
+  ],
+
+  building: [
+    "Timezone Meeting Planners",
+    "Automated Auditing Tools",
+    "Interactive Learning Platforms"
+  ],
+
+  learning: [
+    "System Design",
+    "Solution Architecture",
+    "Cloud Fundamentals",
+    "dbt"
+  ]
+};
+```
+
+### 💌 Connect
+
+* 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+* 📧 Email: [your.email@example.com](mailto:tech.weiss@outlook.com)
