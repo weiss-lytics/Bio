@@ -1,54 +1,19 @@
-# Hi, I'm Weiss 👋
+  # Hi, I’m Alexis 👋
+### Digital Analytics ➔ Solutions Engineering | Analytics Engineering | AI Workflow Engineering
 
-### Digital Analytics Specialist → Exploring Solutions Engineering, Analytics Engineering & AI Workflows
+I enjoy turning messy business problems into scalable technical solutions through systems thinking, automation, and thoughtful engineering.
 
-```javascript
-const Weiss = {
-  currentRole: "Digital Analytics Associate",
+* 📊 **Working with:** GA4, GTM / Server-Side GTM, BigQuery
+* ⚙️ **Interested in:** workflow automation, analytics engineering, solution design
+* 🚀 **Currently building:** Twine, automation tools
+* 🌱 **Currently learning:** SQL, JavaScript, System Design, Cloud Fundamentals, dbt
 
-  interests: [
-    "Solutions Engineering",
-    "Analytics Engineering",
-    "AI Workflows"
-  ],
+I love bridging business needs and technical implementation.
+✨ I enjoy building tools that reduce friction and make complex things feel simple.
 
-  analytics: [
-    "GA4",
-    "GTM",
-    "Server-Side GTM",
-    "BigQuery",
-    "SQL"
-  ],
+---
 
-  engineering: [
-    "JavaScript",
-    "APIs",
-    "JSON",
-    "Browser APIs",
-    "Git"
-  ],
+### 💌 Let's Connect
 
-  automation: [
-    "Prompt Engineering",
-    "AI-Assisted Development"
-  ],
-
-  building: [
-    "Timezone Meeting Planners",
-    "Automated Auditing Tools",
-    "Interactive Learning Platforms"
-  ],
-
-  learning: [
-    "System Design",
-    "Solution Architecture",
-    "Cloud Fundamentals",
-    "dbt"
-  ]
-};
-```
-
-### 💌 Connect
-
-* 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* 📧 Email: [your.email@example.com](mailto:tech.weiss@outlook.com)
+* 💼 **LinkedIn:** [LinkedIn profile](https://www.linkedin.com/in/michelle-alexis-o-396b821aa)
+* 🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
