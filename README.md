@@ -8,7 +8,7 @@ I enjoy turning complex business problems into scalable technical solutions thro
 * 🚀 **Building:** Thoughtful productivity apps, developer tools, and automation workflows
 * 🌱 **Learning:** SQL, JavaScript, System Design, Cloud Fundamentals, dbt
 
-I love bridging business needs with technical implementation and building software that feels intentional, useful, and a little delightful. I believe the best tools quietly solve problems while making people's work just a bit easier. ✨
+I enjoy bridging business needs with technical implementation and building software that feels intentional, useful, and a little delightful. I believe the best tools quietly solve problems and make people's work just a bit easier. ✨
 
 ---
 
