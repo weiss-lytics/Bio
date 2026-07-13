@@ -1,15 +1,14 @@
   # Hi, I’m Alexis 👋
-### Digital Analytics ➔ Solutions Engineering | Analytics Engineering | AI Workflow Engineering
+### Digital Analytics → Solutions Engineering • Analytics Engineering • AI Workflow Engineering
 
-I enjoy turning messy business problems into scalable technical solutions through systems thinking, automation, and thoughtful engineering.
+I enjoy turning complex business problems into scalable technical solutions through systems thinking, automation, and thoughtful engineering.
 
 * 📊 **Working with:** GA4, GTM / Server-Side GTM, BigQuery
-* ⚙️ **Interested in:** workflow automation, analytics engineering, solution design
-* 🚀 **Currently building:** Twine, automation tools
-* 🌱 **Currently learning:** SQL, JavaScript, System Design, Cloud Fundamentals, dbt
+* ⚙️ **Exploring:** Analytics Engineering, Workflow Automation, Solution Design
+* 🚀 **Building:** Thoughtful productivity apps, developer tools, and automation workflows
+* 🌱 **Learning:** SQL, JavaScript, System Design, Cloud Fundamentals, dbt
 
-I love bridging business needs and technical implementation.
-✨ I enjoy building tools that reduce friction and make complex things feel simple.
+I love bridging business needs with technical implementation and building software that feels intentional, useful, and a little delightful. I believe the best tools quietly solve problems while making people's work just a bit easier. ✨
 
 ---
 
