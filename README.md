@@ -1,18 +1,27 @@
-  # Hi, I’m Alexis 👋
-### Digital Analytics → Solutions Engineering • Analytics Engineering • AI Workflow Engineering
+# Hi, I'm Alexis 👋
 
-I enjoy turning complex business problems into scalable technical solutions through systems thinking, automation, and thoughtful engineering.
+### Digital Analytics → Solutions Engineering | Analytics Engineering | AI Workflow Engineering
 
-* 📊 **Working with:** GA4, GTM / Server-Side GTM, BigQuery
-* ⚙️ **Exploring:** Analytics Engineering, Workflow Automation, Solution Design
-* 🚀 **Building:** Thoughtful productivity apps, developer tools, and automation workflows
-* 🌱 **Learning:** SQL, JavaScript, System Design, Cloud Fundamentals, dbt
+I enjoy turning complex business problems into scalable technical solutions through systems thinking, analytics, automation, and thoughtful engineering.
 
-I enjoy bridging business needs with technical implementation and building software that feels intentional, useful, and a little delightful. I believe the best tools quietly solve problems and make people's work just a bit easier. ✨
+## 🛠️ What I'm Working On
+
+- 📊 **Working with:** GA4, GTM, Server-Side GTM, BigQuery
+- ⚙️ **Interested in:** Analytics Engineering, Solution Design, Workflow Automation
+- 🚀 **Building:** Productivity apps, analytics projects, developer tools, and AI-powered workflows
+- 🌱 **Learning:** SQL, JavaScript, dbt, Cloud Fundamentals, and System Design
 
 ---
 
-### 💌 Let's Connect
+## 💡 Philosophy
 
-* 💼 **LinkedIn:** [LinkedIn profile](https://www.linkedin.com/in/michelle-alexis-o-396b821aa)
-* 🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+I love bridging business needs with technical implementation—creating tools that are intentional, practical, and enjoyable to use.
+
+I believe the best software quietly solves problems and helps people work more effectively. ✨
+
+---
+
+## 💌 Let's Connect
+
+- 💼 LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/michelle-alexis-o-396b821aa)
+- 🌐 Portfolio: *(Coming soon)*
