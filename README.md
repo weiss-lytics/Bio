@@ -34,4 +34,4 @@ I believe the best software quietly solves problems and helps people work more e
 ### 💌 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle-alexis-o-396b821aa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-101010?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio--101010?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
