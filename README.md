@@ -14,14 +14,14 @@
 
 I enjoy turning complex business problems into scalable technical solutions through systems thinking, analytics, automation, and thoughtful engineering.
 
-## 🛠️ What I'm Working On
+### 🛠️ What I'm Working On
 
-- 📊 **Working with:** GA4, GTM, Server-Side GTM, BigQuery
-- ⚙️ **Interested in:** Analytics Engineering, Solution Design, Workflow Automation
-- 🚀 **Building:** Productivity apps, analytics projects, developer tools, and AI-powered workflows
-- 🌱 **Learning:** SQL, JavaScript, dbt, Cloud Fundamentals, and System Design
-
----
+| Focus Area | Stack & Topics |
+| :--- | :--- |
+| **📊 Active Stack** | GA4, GTM (Client & Server-Side), BigQuery |
+| **🚀 Currently Building** | Productivity apps, analytics tools, & AI-powered workflows |
+| **🌱 Learning & Growing** | SQL, JavaScript, dbt, Cloud Fundamentals, System Design |
+| **🎯 Core Interests** | Analytics Engineering, Solution Design, Workflow Automation |
 
 ## 💡 Philosophy
 
