@@ -8,8 +8,19 @@
 
 
 <p align="center">
-  <b>Digital Analytics → Solutions Engineering | Analytics Engineering | AI Workflow Engineering</b>
+  <i>Building systems through Analytics, Automation & Engineering</i>
 </p>
+
+## 🚀 Featured Builds
+
+A collection of systems, dashboards, and productivity tools designed to solve real-world problems through analytics, automation, and thoughtful user experience.
+
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **🌍 Twine** | Timezone planning tool that simplifies scheduling across global teams with IANA timezone support and DST awareness. | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **📐 Kiri** | Blueprint and idea-mapping workspace for organizing concepts, workflows, and system designs before development. | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **🏥 Weiss Health Dashboard** | Personal health tracking dashboard built to monitor medical history, symptoms, and long-term health trends. | ![Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white) |
+| **🌱 Money Garden** | Personal finance dashboard that transforms budgeting and expense tracking into an intuitive financial management system. | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
 
 
 I enjoy turning complex business problems into scalable technical solutions through systems thinking, analytics, automation, and thoughtful engineering.
@@ -24,8 +35,6 @@ I enjoy turning complex business problems into scalable technical solutions thro
 | **🎯 Core Interests** | Analytics Engineering, Solution Design, Workflow Automation |
 
 ## 💡 Philosophy
-
-I love bridging business needs with technical implementation—creating tools that are intentional, practical, and enjoyable to use.
 
 I believe the best software quietly solves problems and helps people work more effectively. ✨
 
