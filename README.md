@@ -1,6 +1,16 @@
-# Hi, I'm Alexis 👋
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
+    <img alt="Alexis Profile Banner" src="assets/light.svg" width="100%">
+  </picture>
+</p>
 
-### Digital Analytics → Solutions Engineering | Analytics Engineering | AI Workflow Engineering
+
+<p align="center">
+  <b>Digital Analytics → Solutions Engineering | Analytics Engineering | AI Workflow Engineering</b>
+</p>
+
 
 I enjoy turning complex business problems into scalable technical solutions through systems thinking, analytics, automation, and thoughtful engineering.
 
@@ -21,7 +31,7 @@ I believe the best software quietly solves problems and helps people work more e
 
 ---
 
-## 💌 Let's Connect
+### 💌 Let's Connect
 
-- 💼 LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/michelle-alexis-o-396b821aa)
-- 🌐 Portfolio: *(Coming soon)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle-alexis-o-396b821aa)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-101010?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
