@@ -15,13 +15,16 @@
 
 A collection of systems, dashboards, and productivity tools designed to solve real-world problems through analytics, automation, and thoughtful user experience.
 
+### 🚀 Featured Builds
+
+A collection of systems, dashboards, and productivity tools designed to solve real-world problems through analytics, automation, and thoughtful user experience.
+
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **🌍 Twine** | Timezone planning tool that simplifies scheduling across global teams with IANA timezone support and DST awareness. | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **📐 Kiri** | Blueprint and idea-mapping workspace for organizing concepts, workflows, and system designs before development. | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **🏥 Weiss Health Dashboard** | Personal health tracking dashboard built to monitor medical history, symptoms, and long-term health trends. | ![Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white) |
-| **🌱 Money Garden** | Personal finance dashboard that transforms budgeting and expense tracking into an intuitive financial management system. | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
-
+| 🌐 **[Twine](https://github.com/weiss-lytics/Systems-Labs/tree/main/twine)** | Timezone planning tool that simplifies scheduling across global teams with IANA timezone support and DST awareness. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) <br> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| 📐 **[Kiri](https://github.com/weiss-lytics/Systems-Labs/tree/main/kiri)** | Blueprint and idea-mapping workspace for organizing concepts, workflows, and system designs before development. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) <br> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| 🏥 **[Weiss Health Dashboard](https://github.com/weiss-lytics/Analytics/tree/main/personal-health-dashboard)** | Personal health tracking dashboard built to monitor medical history, symptoms, and long-term health trends. | ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white) |
+| 🌱 **[Money Garden](https://github.com/weiss-lytics/Analytics/tree/main/personal-finance-dashboard)** | Personal finance dashboard that transforms budgeting and expense tracking into an intuitive financial management system. | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
 
 I enjoy turning complex business problems into scalable technical solutions through systems thinking, analytics, automation, and thoughtful engineering.
 
