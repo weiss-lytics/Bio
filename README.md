@@ -11,10 +11,6 @@
   <i>Building systems through Analytics, Automation & Engineering</i>
 </p>
 
-## 🚀 Featured Builds
-
-A collection of systems, dashboards, and productivity tools designed to solve real-world problems through analytics, automation, and thoughtful user experience.
-
 ### 🚀 Featured Builds
 
 A collection of systems, dashboards, and productivity tools designed to solve real-world problems through analytics, automation, and thoughtful user experience.
