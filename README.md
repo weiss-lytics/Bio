@@ -30,12 +30,12 @@ I enjoy turning complex business problems into scalable technical solutions thro
 | :--- | :--- |
 | **📊 Active Stack** | GA4, GTM (Client & Server-Side), BigQuery |
 | **🚀 Currently Building** | Productivity apps, analytics tools, & AI-powered workflows |
-| **🌱 Learning & Growing** | SQL, JavaScript, dbt, Cloud Fundamentals, System Design |
+| **🌱 Currently Learning** | SQL, JavaScript, dbt, Cloud Fundamentals, System Design |
 | **🎯 Core Interests** | Analytics Engineering, Solution Design, Workflow Automation |
 
 ## 💡 Philosophy
 
-I believe the best software quietly solves problems and helps people work more effectively. ✨
+I believe the best software queitly solves problems. Whether through analytics, automation, or thoughtful system design, my goal is to build tools that make work simpler.
 
 ---
 
