@@ -22,20 +22,22 @@ A collection of systems, dashboards, and productivity tools designed to solve re
 | 🏥 **[Weiss Health Dashboard](https://github.com/weiss-lytics/Analytics/tree/main/personal-health-dashboard)** | Personal health tracking dashboard built to monitor medical history, symptoms, and long-term health trends. | ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white) |
 | 🌱 **[Money Garden](https://github.com/weiss-lytics/Analytics/tree/main/personal-finance-dashboard)** | Personal finance dashboard that transforms budgeting and expense tracking into an intuitive financial management system. | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
 
-I enjoy turning complex business problems into scalable technical solutions through systems thinking, analytics, automation, and thoughtful engineering.
+I enjoy turning complex business problems into simple, scalable software through analytics, automation, systems thinking, and user-centered design.
 
 ### 🛠️ What I'm Working On
 
 | Focus Area | Stack & Topics |
 | :--- | :--- |
 | **📊 Active Stack** | GA4, GTM (Client & Server-Side), BigQuery |
-| **🚀 Currently Building** | Productivity apps, analytics tools, & AI-powered workflows |
-| **🌱 Currently Learning** | SQL, JavaScript, dbt, Cloud Fundamentals, System Design |
-| **🎯 Core Interests** | Analytics Engineering, Solution Design, Workflow Automation |
+| **🚀 Currently Building** | Privacy-first productivity tools, analytics applications, and AI-assisted workflows |
+| **🌱 Currently Learning** | JavaScript, SQL, BigQuery, dbt, Cloud Fundamentals, System Design |
+| **🎯 Core Interests** | Solutions Engineering, Analytics Engineering, Workflow Automation, Privacy-First Applications |
 
 ## 💡 Philosophy
 
-I believe the best software queitly solves problems. Whether through analytics, automation, or thoughtful system design, my goal is to build tools that make work simpler.
+I believe the best software quietly solves problems.
+
+Whether through analytics, automation, or thoughtful system design, my goal is to build tools that reduce complexity, remove friction, and make everyday work a little simpler.
 
 ---
 
