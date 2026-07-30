@@ -11,7 +11,7 @@
   <i>Building systems through Analytics, Automation & Engineering</i>
 </p>
 
-### 🚀 Featured Builds
+### 🚀 Featured Projects
 
 A collection of systems, dashboards, and productivity tools designed to solve real-world problems through analytics, automation, and thoughtful user experience.
 
@@ -22,16 +22,25 @@ A collection of systems, dashboards, and productivity tools designed to solve re
 | 🏥 **[Weiss Health Dashboard](https://github.com/weiss-lytics/Analytics/tree/main/personal-health-dashboard)** | Personal health tracking dashboard built to monitor medical history, symptoms, and long-term health trends. | ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white) |
 | 🌱 **[Money Garden](https://github.com/weiss-lytics/Analytics/tree/main/personal-finance-dashboard)** | Personal finance dashboard that transforms budgeting and expense tracking into an intuitive financial management system. | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
 
-I enjoy turning complex business problems into simple, scalable software through analytics, automation, systems thinking, and user-centered design.
+## 🧭 What You'll Find Here
 
-### 🛠️ What I'm Working On
+- 📊 Analytics implementation experiments
+- ⚙️ Workflow automation ideas
+- 🤖 AI-assisted applications and prototypes
+- 🧩 Productivity tools inspired by real-world problems
+- 📈 Dashboards and data visualization projects
+- 🏗️ System design and architecture explorations
+
+I enjoy building simple, scalable solutions that transform complex business problems through analytics, automation, systems thinking, and thoughtful user experience.
+
+## 🛠️ Current Focus
 
 | Focus Area | Stack & Topics |
 | :--- | :--- |
-| **📊 Active Stack** | GA4, GTM (Client & Server-Side), BigQuery |
+| **📊 Professional Stack** | **Analytics:** GA4, GTM (Client & Server-Side) • **Marketing:** Google Marketing Platform • **Development:** Custom JavaScript • **Privacy:** OneTrust • **Reporting:** Looker Studio |
 | **🚀 Currently Building** | Privacy-first productivity tools, analytics applications, and AI-assisted workflows |
-| **🌱 Currently Learning** | JavaScript, SQL, BigQuery, dbt, Cloud Fundamentals, System Design |
-| **🎯 Core Interests** | Solutions Engineering, Analytics Engineering, Workflow Automation, Privacy-First Applications |
+| **🌱 Currently Learning** | SQL, BigQuery, dbt, Cloud Fundamentals, System Design |
+| **🎯 Career Interests** | Solutions Engineering, Analytics Engineering, Workflow Automation, Privacy-First Applications |
 
 ## 💡 Philosophy
 
